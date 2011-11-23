@@ -1,3 +1,4 @@
 .idea/
 at.meikel.sudoku.iml
 download/*.jar
+target/
